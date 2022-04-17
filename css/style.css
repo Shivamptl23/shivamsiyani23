@@ -7,6 +7,8 @@ body{
         padding: 0px;
         background-color: #161616;
 }
+
+/* CSS for Navigation */
 ul{
     list-style: none;
 }
@@ -48,4 +50,13 @@ nav{
 .logo{
     font-size: 25px;
     font-family: Poppins;
+    color: #161616;
+}
+
+/* CSS for Main */
+
+.main{
+    width: 100%;
+    height: 100vh;
+    
 }
